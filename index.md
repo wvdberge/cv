@@ -78,6 +78,7 @@ My research interests are in labor economics. In particular, I am interested in 
   with Maarten Goos, Anna Salomons and Bas Scheer.
 
 - The Effect of Adverse Life-Events on Income Trajectories
+
   with Simon Rabaté, Maxime Tô, Julie Tréguier and Willem van der Wal.
 
 ---
