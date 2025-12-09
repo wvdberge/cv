@@ -1,5 +1,3 @@
-# Wiljan van den Berge
-
 Assistant Professor (tenured), Utrecht School of Economics, Utrecht University  
 Email: A.W.vandenberge@uu.nl  
 Website: https://www.wiljanvandenberge.com  
