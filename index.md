@@ -73,6 +73,7 @@ My research interests are in labor economics. In particular, I am interested in 
 
 - [Domestic Outsourcing and Worker Outcomes: Evidence from Staffing Firms](https://www.iza.org/publications/dp/18228/domestic-outsourcing-and-worker-outcomes-evidence-from-staffing-firms)
   Status: *Submitted*
+
   with Maarten Goos, Anna Salomons and Bas Scheer.
 
 - The Effect of Adverse Life-Events on Income Trajectories
@@ -106,10 +107,10 @@ Rotterdam (2025), Tinbergen Institute (2022), EEA (2022), EALE (2022), ASSA (202
 - **Tutorials, Econometrics (undergraduate)**, Utrecht University  
   2020–2022  
 
-- **PhD supervision – Victor Picado**, Utrecht University  
-  2021–present  
+- **PhD supervision – Victor Picado**, Utrecht University  (Placement: University of Costa Rica)
+  2021–2025  
 
-- **PhD supervision – Emiel van Bezooijen**, Utrecht University  
+- **PhD supervision – Emiel van Bezooijen**, Utrecht University  (Placement: CPB Netherlands Bureau for Economic Policy Analysis)
   2020–2024  
 
 - **Guest lecture and assignment “Technology and the labor market”**, graduate Labour Economics, Tilburg University (prof. dr. D. van Vuuren)  
