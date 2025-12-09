@@ -44,39 +44,38 @@ My research interests are in labor economics. In particular, I am interested in 
 ## Publications
 
 - Bessen, J., M. Goos, A. Salomons and W. van den Berge (2025).  
-  “[What Happens to Workers at Firms that Automate?](https://doi.org/10.1162/rest_a_01284)”  
+  [What Happens to Workers at Firms that Automate?](https://doi.org/10.1162/rest_a_01284)  
   *The Review of Economics and Statistics* 107(1), pp. 125–141.
 
 - Van Bezooijen, E., W. van den Berge and A. Salomons (2024).  
-  “[The Young Bunch: Youth Minimum Wages and Labor Market Outcomes](https://doi.org/10.1177/00197939241239317)”  
+  [The Young Bunch: Youth Minimum Wages and Labor Market Outcomes](https://doi.org/10.1177/00197939241239317)  
   *Industrial and Labor Relations Review* 77(3), pp. 428–460.
 
 - Van den Berge, W., E. Jongen, K. van der Wiel (2022).  
-  “[The effects of a tax deduction for lifelong learning expenditures](https://doi.org/10.1007/s10797-022-09736-y)”  
+  [The effects of a tax deduction for lifelong learning expenditures](https://doi.org/10.1007/s10797-022-09736-y)  
   *International Tax and Public Finance*.
 
 - Bessen, J., M. Goos, A. Salomons and W. van den Berge (2020).  
-  “[Firm-level Automation: Evidence from the Netherlands](https://doi.org/10.1257/pandp.20201004)”  
+  [Firm-level Automation: Evidence from the Netherlands](https://doi.org/10.1257/pandp.20201004)  
   *AEA Papers & Proceedings*, May 2020.
 
 - Van den Berge, W. (2018).  
-  “[Bad Start, Bad Match? The Early Career Effects of Graduating in a Recession for Vocational and Academic Graduates](https://www.sciencedirect.com/science/article/abs/pii/S0927537118300563)”  
+  [Bad Start, Bad Match? The Early Career Effects of Graduating in a Recession for Vocational and Academic Graduates](https://www.sciencedirect.com/science/article/abs/pii/S0927537118300563)  
   *Labour Economics* 53, pp. 75–96.
 
 - Deelen, A., M. de Graaf-Zijl and W. van den Berge (2018).  
-  “[Labour Market Effects of Job displacement for Prime-age and Older Workers](https://link.springer.com/article/10.1186/s40172-018-0063-x)”  
+  [Labour Market Effects of Job displacement for Prime-age and Older Workers](https://link.springer.com/article/10.1186/s40172-018-0063-x)  
   *IZA Journal of Labor Economics* 7(3).
 
 ---
 
 ## Working papers
 
-- *[Domestic Outsourcing and Worker Outcomes: Evidence from Staffing Firms](https://www.iza.org/publications/dp/18228/domestic-outsourcing-and-worker-outcomes-evidence-from-staffing-firms)*
-  Status: Submitted.
-
+- [Domestic Outsourcing and Worker Outcomes: Evidence from Staffing Firms](https://www.iza.org/publications/dp/18228/domestic-outsourcing-and-worker-outcomes-evidence-from-staffing-firms)
+  Status: *Submitted*
   with Maarten Goos, Anna Salomons and Bas Scheer.
 
-- *The Effect of Adverse Life-Events on Income Trajectories*  
+- The Effect of Adverse Life-Events on Income Trajectories
   with Simon Rabaté, Maxime Tô, Julie Tréguier and Willem van der Wal.
 
 ---
