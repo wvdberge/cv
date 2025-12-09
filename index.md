@@ -71,7 +71,7 @@ My research interests are in labor economics. In particular, I am interested in 
 
 ## Working papers
 
-- *Domestic Outsourcing and Worker Outcomes: Evidence from Staffing Firms*  
+- *[Domestic Outsourcing and Worker Outcomes: Evidence from Staffing Firms](https://www.iza.org/publications/dp/18228/domestic-outsourcing-and-worker-outcomes-evidence-from-staffing-firms)* Status: Submitted.
   with Maarten Goos, Anna Salomons and Bas Scheer.
 
 - *The Effect of Adverse Life-Events on Income Trajectories*  
@@ -84,10 +84,10 @@ My research interests are in labor economics. In particular, I am interested in 
 - *Technological Change, Health and Disability*  
   with Bram Wouterse.
 
-- *The labor market effects of wage subsidies for low-wage workers*.
-
 - *Minimum wages, financial independence and criminal behavior*  
   with Ruben van Loon and Timo Verlaat.
+
+- *The labor market effects of wage subsidies for low-wage workers*.
 
 ---
 
