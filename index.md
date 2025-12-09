@@ -72,8 +72,8 @@ My research interests are in labor economics. In particular, I am interested in 
 ## Working papers
 
 - [Domestic Outsourcing and Worker Outcomes: Evidence from Staffing Firms](https://www.iza.org/publications/dp/18228/domestic-outsourcing-and-worker-outcomes-evidence-from-staffing-firms)
-  Status: *Submitted*
 
+  Status: *Submitted*.
   with Maarten Goos, Anna Salomons and Bas Scheer.
 
 - The Effect of Adverse Life-Events on Income Trajectories
